@@ -1,0 +1,12 @@
+Package: ConBio456RData
+Type: Package
+Title: Data for R Exercises in ConBio 456/656
+Version: 0.1.0
+Author: Vincenzo A. Ellis
+Maintainer: Vincenzo A. Ellis <vaellis@udel.edu>
+Description: This package holds data that are used in R exercises in ConBio 456/656
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: sp

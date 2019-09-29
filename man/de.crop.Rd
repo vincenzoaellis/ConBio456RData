@@ -21,7 +21,7 @@ http://opendata.firstmap.delaware.gov/datasets/delaware-2007-land-use-land-cover
 %%  ~~ possibly secondary sources and usages ~~
 }
 \examples{
-head(de.crop@data)
-plot(de.crop)
+## not run: head(de.crop@data)
+## plot(de.crop)
 }
 \keyword{datasets}
